@@ -1,0 +1,26 @@
+pip install jupyterlab
+jupyter-lab
+
+pip install notebook 
+jupyter notebook
+
+pip install voila
+voila
+
+pip install numpy
+pip install matplotlib
+pip install pandas
+
+pip install -U scikit-learn
+
+>> ML Process 
+Data preprocessing  - import, clean, split into training and test sets 
+Modeling - Build & Train Model , Make prediction
+Evaluation - Calculate performance metrics & Make verdict 
+
+>> Training & Test Set 
+
+>> Feature Scaling 
+	applied to column only
+	2 technique ->
+	Normalization & Standardization
